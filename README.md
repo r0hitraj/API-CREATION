@@ -27,9 +27,9 @@ Errors & Validation
 2. I have chossen windows system for development
 
 ### Steps to run the project:
-step->1->git clone https://github.com/r0hitraj/API-CREATION.git
+step1->git clone https://github.com/r0hitraj/API-CREATION.git
 <br>
-step->2->install virtual env  by -> mkvirtualenv [any name]   //note here any-name is not in bracket this is used only for the refrence instead of it use tour suitable name
+step2->install virtual env  by -> mkvirtualenv [any name]   //note here any-name is not in bracket this is used only for the refrence instead of it use your suitable name
 <br>
 step3-> workon [any name] <br>
 step4-> pip install -r requirements.txt <br>
