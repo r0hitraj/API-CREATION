@@ -28,11 +28,13 @@ Errors & Validation
 
 ### Steps to run the project:
 step->1->git clone https://github.com/r0hitraj/API-CREATION.git
+<br>
 step->2->install virtual env  by -> mkvirtualenv [any name]   //note here any-name is not in bracket this is used only for the refrence instead of it use tour suitable name
-step3-> workon [any name]
-step4-> pip install -r requirements.txt
-step5->python manage.py migrate
-step6->python manage.py runserver 
+<br>
+step3-> workon [any name] <br>
+step4-> pip install -r requirements.txt <br>
+step5->python manage.py migrate <br>
+step6->python manage.py runserver  <br>
 
 ### now Start testing
 
